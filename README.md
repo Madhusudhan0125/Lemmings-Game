@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements the core logic of the **Lemmings Game** in Verilog. Lemmings are little characters that can walk, dig, fall, and sometimes splat based on the conditions in their environment. The code provided models a basic state machine that handles their movement and behavior, including walking, falling, digging, and splatting when falling from a height that is too great.
+This project implements the core logic of the **Lemmings Game** in System Verilog. Lemmings are little characters that can walk, dig, fall, and sometimes splat based on the conditions in their environment. The code provided models a basic state machine that handles their movement and behavior, including walking, falling, digging, and splatting when falling from a height that is too great.
 
 The game logic is organized into various states that manage how a lemming reacts to the environment, whether it's walking left or right, falling, digging, or reaching its demise by splatting.
 
@@ -101,4 +101,4 @@ To simplify the wiring of signals in testbenches or other modules, a SystemVeril
 
 ## Conclusion
 
-This Verilog design provides a core FSM implementation for the Lemmings game, where lemmings can walk, dig, fall, and splat based on their environment. With a modular structure and interface definition, this design is scalable and can be extended with more complex game mechanics.
+This System Verilog design provides a core FSM implementation for the Lemmings game, where lemmings can walk, dig, fall, and splat based on their environment. With a modular structure and interface definition, this design is scalable and can be extended with more complex game mechanics.
