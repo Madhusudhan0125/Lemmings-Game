@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb2_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb2" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="890.001 ns"></ZoomEndTime>
+      <Cursor1Time time="890.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="332"></NameColumnWidth>
+      <ValueColumnWidth column_width="160"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="39" />
+   <wave_markers>
+      <marker time="300000" label="" />
+   </wave_markers>
+   <wvobject fp_name="/tb2/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/areset" type="logic">
+      <obj_property name="ElementShortName">areset</obj_property>
+      <obj_property name="ObjectShortName">areset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/bump_left" type="logic">
+      <obj_property name="ElementShortName">bump_left</obj_property>
+      <obj_property name="ObjectShortName">bump_left</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/bump_right" type="logic">
+      <obj_property name="ElementShortName">bump_right</obj_property>
+      <obj_property name="ObjectShortName">bump_right</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/ground" type="logic">
+      <obj_property name="ElementShortName">ground</obj_property>
+      <obj_property name="ObjectShortName">ground</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dig" type="logic">
+      <obj_property name="ElementShortName">dig</obj_property>
+      <obj_property name="ObjectShortName">dig</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/walk_left" type="logic">
+      <obj_property name="ElementShortName">walk_left</obj_property>
+      <obj_property name="ObjectShortName">walk_left</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/walk_right" type="logic">
+      <obj_property name="ElementShortName">walk_right</obj_property>
+      <obj_property name="ObjectShortName">walk_right</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/aah" type="logic">
+      <obj_property name="ElementShortName">aah</obj_property>
+      <obj_property name="ObjectShortName">aah</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/digging" type="logic">
+      <obj_property name="ElementShortName">digging</obj_property>
+      <obj_property name="ObjectShortName">digging</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/jumping" type="logic">
+      <obj_property name="ElementShortName">jumping</obj_property>
+      <obj_property name="ObjectShortName">jumping</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/small_bump_right" type="logic">
+      <obj_property name="ElementShortName">small_bump_right</obj_property>
+      <obj_property name="ObjectShortName">small_bump_right</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/small_bump_left" type="logic">
+      <obj_property name="ElementShortName">small_bump_left</obj_property>
+      <obj_property name="ObjectShortName">small_bump_left</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/areset" type="logic">
+      <obj_property name="ElementShortName">areset</obj_property>
+      <obj_property name="ObjectShortName">areset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/bump_left" type="logic">
+      <obj_property name="ElementShortName">bump_left</obj_property>
+      <obj_property name="ObjectShortName">bump_left</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/small_bump_left" type="logic">
+      <obj_property name="ElementShortName">small_bump_left</obj_property>
+      <obj_property name="ObjectShortName">small_bump_left</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/bump_right" type="logic">
+      <obj_property name="ElementShortName">bump_right</obj_property>
+      <obj_property name="ObjectShortName">bump_right</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/small_bump_right" type="logic">
+      <obj_property name="ElementShortName">small_bump_right</obj_property>
+      <obj_property name="ObjectShortName">small_bump_right</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/ground" type="logic">
+      <obj_property name="ElementShortName">ground</obj_property>
+      <obj_property name="ObjectShortName">ground</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/dig" type="logic">
+      <obj_property name="ElementShortName">dig</obj_property>
+      <obj_property name="ObjectShortName">dig</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/walk_left" type="logic">
+      <obj_property name="ElementShortName">walk_left</obj_property>
+      <obj_property name="ObjectShortName">walk_left</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/walk_right" type="logic">
+      <obj_property name="ElementShortName">walk_right</obj_property>
+      <obj_property name="ObjectShortName">walk_right</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/aah" type="logic">
+      <obj_property name="ElementShortName">aah</obj_property>
+      <obj_property name="ObjectShortName">aah</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/digging" type="logic">
+      <obj_property name="ElementShortName">digging</obj_property>
+      <obj_property name="ObjectShortName">digging</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/jumping" type="logic">
+      <obj_property name="ElementShortName">jumping</obj_property>
+      <obj_property name="ObjectShortName">jumping</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/state" type="array">
+      <obj_property name="ElementShortName">state[3:0]</obj_property>
+      <obj_property name="ObjectShortName">state[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/next_state" type="array">
+      <obj_property name="ElementShortName">next_state[3:0]</obj_property>
+      <obj_property name="ObjectShortName">next_state[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/splat_left" type="logic">
+      <obj_property name="ElementShortName">splat_left</obj_property>
+      <obj_property name="ObjectShortName">splat_left</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/splat_right" type="logic">
+      <obj_property name="ElementShortName">splat_right</obj_property>
+      <obj_property name="ObjectShortName">splat_right</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/LEFT" type="array">
+      <obj_property name="ElementShortName">LEFT[31:0]</obj_property>
+      <obj_property name="ObjectShortName">LEFT[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/RIGHT" type="array">
+      <obj_property name="ElementShortName">RIGHT[31:0]</obj_property>
+      <obj_property name="ObjectShortName">RIGHT[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/FALLING_LEFT" type="array">
+      <obj_property name="ElementShortName">FALLING_LEFT[31:0]</obj_property>
+      <obj_property name="ObjectShortName">FALLING_LEFT[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/FALLING_RIGHT" type="array">
+      <obj_property name="ElementShortName">FALLING_RIGHT[31:0]</obj_property>
+      <obj_property name="ObjectShortName">FALLING_RIGHT[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/DIGGING_LEFT" type="array">
+      <obj_property name="ElementShortName">DIGGING_LEFT[31:0]</obj_property>
+      <obj_property name="ObjectShortName">DIGGING_LEFT[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/DIGGING_RIGHT" type="array">
+      <obj_property name="ElementShortName">DIGGING_RIGHT[31:0]</obj_property>
+      <obj_property name="ObjectShortName">DIGGING_RIGHT[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/SPLAT" type="array">
+      <obj_property name="ElementShortName">SPLAT[31:0]</obj_property>
+      <obj_property name="ObjectShortName">SPLAT[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/JUMP_LEFT" type="array">
+      <obj_property name="ElementShortName">JUMP_LEFT[31:0]</obj_property>
+      <obj_property name="ObjectShortName">JUMP_LEFT[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb2/dut1/JUMP_RIGHT" type="array">
+      <obj_property name="ElementShortName">JUMP_RIGHT[31:0]</obj_property>
+      <obj_property name="ObjectShortName">JUMP_RIGHT[31:0]</obj_property>
+   </wvobject>
+</wave_config>
