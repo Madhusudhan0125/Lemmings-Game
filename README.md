@@ -43,7 +43,7 @@ The block design created in Vivado includes the following components:
 - **Slices**: Slice components are used to separate specific inputs from the GPIO array.
 
 Below is the block design diagram:
-![Block Design](.C:\Users\madhu\OneDrive\Pictures\Screenshots/Screenshot%202024-10-30%20153221.png)
+![Block Design](.https://drive.google.com/file/d/1nFb5LIJLOup0f4hYctwPwXYZykjD-sUa/view?usp=sharing)
 
 ## Workflow
 
