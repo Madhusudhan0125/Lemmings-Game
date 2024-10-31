@@ -42,8 +42,7 @@ The block design created in Vivado includes the following components:
 - **GPIO Ports**: Used for input handling.
 - **Slices**: Slice components are used to separate specific inputs from the GPIO array.
 
-Below is the block design diagram:
-![Block Design](https://drive.google.com/file/d/1nFb5LIJLOup0f4hYctwPwXYZykjD-sUa/view?usp=sharing)
+You can view the block design diagram [here](https://drive.google.com/file/d/1nFb5LIJLOup0f4hYctwPwXYZykjD-sUa/view?usp=sharing).
 
 ## Workflow
 
@@ -74,5 +73,3 @@ Below is the block design diagram:
 
 - Add more complex game behaviors.
 - Enhance GPIO input handling.
-- Optimize array slicing for efficiency.
-
