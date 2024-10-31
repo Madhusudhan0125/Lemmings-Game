@@ -1,4 +1,4 @@
-# Lemmings Logic on Kria K26
+# Lemmings game on Kria K260
 
 This project implements the classic Lemmings game logic using SystemVerilog on a Kria K26 Robotics board. The game logic includes movement features, such as walking, bumping, jumping, digging, and falling, and is implemented in `top.sv`. The design is tested using `tb2.sv` and integrated into a block design in Vivado with a Zynq MPSoC, GPIO inputs, and array slicing components.
 
